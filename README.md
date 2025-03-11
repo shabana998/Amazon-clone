@@ -1,4 +1,4 @@
-# Amazon Chrome Clone 🌐  
+# Amazon  Clone 🌐  
 
 This is a simple **Amazon Chrome Clone** built using **only HTML and CSS**. It replicates the homepage layout of Amazon, focusing on structure and styling without JavaScript functionality.  
 
@@ -14,6 +14,6 @@ This is a simple **Amazon Chrome Clone** built using **only HTML and CSS**. It r
 - CSS3 (Flexbox & Grid)  
 
 ## 📷 Preview  
-![Amazon Chrome Clone Screenshot](screenshot.png)
+![Amazon Clone Screenshot](Screenshot.png)
  
 
